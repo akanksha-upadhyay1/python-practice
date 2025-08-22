@@ -1,0 +1,15 @@
+a = (1, 45, 342, 3424, False, "Rohan", "Shivam")
+print(a)
+print(type(a))
+no = a.count(45)
+print(no)
+s = "abc"
+print(tuple(s))
+lst = [1, 2, 3]
+print(tuple(lst))
+a = (5, 10, 15, 10, 20)
+print(a.index(10))
+print(a.index(10,2))
+t = (1, 2, 3)
+print(sum(t))
+print(max(t))
