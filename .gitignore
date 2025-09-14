@@ -1,0 +1,5 @@
+/chapter13ts/harry/lib/
+/venv/
+/.venv/
+/__pycache__/
+*.pyc
